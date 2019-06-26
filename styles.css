@@ -1,8 +1,17 @@
 bl {color:blue;}
-r {color:red;}
+r {color:#ff15a4;}
 .center{text-align:center;}
 .large{font-size:large;}
-div{
+
+button{
+  width:100px;
+  height:100px;
+  font-size:Times New Roman;
+  background-color:blue;
+}
+
+button:hover{
   background-color:orange;
   width:200px;
+  height:200px;
 }
